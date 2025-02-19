@@ -11,4 +11,4 @@ This repository contains various **database management assignments** utilizing *
 - **Performance Optimization**: Writing efficient queries and using indexing  
 
 
-Each assignment includes explanations to guide you through the concepts. Hope you find it useful! 🚀  
+Each assignment includes explanations to guide you through the concepts.
