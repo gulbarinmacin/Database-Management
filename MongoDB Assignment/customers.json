@@ -1,0 +1,3 @@
+{"_id":{"$oid":"647cc9e9b61fe88076e38b6c"},"Name":"Gülbarin Maçin","Zipcode":"99503","AvgRating":8.3}
+{"_id":{"$oid":"647cc9e9b61fe88076e38b6d"},"Name":"Andrei T.","Zipcode":"90025","AvgRating":3.5,"LastOrder":{"year":2009}}
+{"_id":{"$oid":"647cc9e9b61fe88076e38b6e"},"Name":"Bela T.","Zipcode":"33126","AvgRating":4.9,"LastOrder":{"year":2019,"tags":["art","melancholy"]}}
